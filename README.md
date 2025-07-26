@@ -25,3 +25,6 @@ I used a dataset from kaggle --> Link: https://www.kaggle.com/datasets/mostafaab
 # Training Instructions
 * Install dependencies
   install -r requirements.txt
+
+# Report
+* See Waste_Classification_Report.pdf for full explanation, results, and model performance.
