@@ -1,0 +1,8 @@
+tensorflow
+pillow
+opencv-python-headless
+imagehash
+pandas
+matplotlib
+seaborn
+scikit-learn
