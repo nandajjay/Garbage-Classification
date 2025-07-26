@@ -11,7 +11,7 @@ I used a dataset from kaggle --> Link: https://www.kaggle.com/datasets/mostafaab
 3. Model Training
 4. Inference
 
-#Data Preprocessing
+# Data Preprocessing
 * Removed corrupted images
 * Resized images to 224×224
 * Converted all images to RGB
